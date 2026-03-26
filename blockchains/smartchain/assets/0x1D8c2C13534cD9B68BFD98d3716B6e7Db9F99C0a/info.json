@@ -1,0 +1,22 @@
+{
+  "name": "SUN",
+  "website": "https://sun.rnr.sg",
+  "description": "SUN token",
+  "explorer": "https://bscscan.com/token/0x1d8c2c13534cd9b68bfd98d3716b6e7db9f99c0a",
+  "type": "BEP20",
+  "symbol": "SUN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1D8c2C13534cD9B68BFD98d3716B6e7Db9F99C0a",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/yourproject"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/yourproject"
+    }
+  ],
+  "tags": ["defi"]
+}
